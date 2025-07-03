@@ -1,0 +1,7 @@
+{
+  "size_x": 1.0,
+  "size_y": 1.0,
+  "num_cells_x": 10,
+  "num_cells_y": 10,
+  "output_csv_filename": "output.csv"
+}
